@@ -3,7 +3,8 @@ NLP topic modelling with Gensim Latent Dirichlet Allocation
 
 **Objective**: 
 
-Classify topics using Latent Dirichlet Allocation (LDA) model from Gensim
+Find the topic of each document in a collection using Latent Dirichlet Allocation (LDA) model from Gensim. 
+The model is trained on unlabelled text data (unsupervised learning) and the topic classification performance is measured according to the true labels of the data, as well as by the perplexity and coherence score.
 
 **Data**: 
 
